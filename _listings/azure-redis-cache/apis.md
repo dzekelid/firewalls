@@ -23,7 +23,7 @@ apis:
   tags: Firewall
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/firewall/master/_listings/azure-redis-cache/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cache-redis-cachename-firewallrules-rulename-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/firewall/master/_listings/azure-redis-cache/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-cache-redis-cachename-firewallrules-rulename-delete.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/redis-cache/
