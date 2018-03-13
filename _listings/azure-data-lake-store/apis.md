@@ -33,7 +33,7 @@ apis:
   tags: Firewall
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/firewall/master/_listings/azure-data-lake-store/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-datalakestore-accounts-accountname-firewallrules-firewallrulename-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/firewall/master/_listings/azure-data-lake-store/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-datalakestore-accounts-accountname-firewallrules-get.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/data-lake-store/
