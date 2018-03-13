@@ -35,7 +35,7 @@ apis:
   tags: Firewall
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/firewall/master/_listings/azure-data-lake-analytics/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-datalakeanalytics-accounts-accountname-firewallrules-firewallrulename-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/firewall/master/_listings/azure-data-lake-analytics/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-datalakeanalytics-accounts-accountname-firewallrules-firewallrulename-get.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/data-lake-analytics/
